@@ -1,7 +1,7 @@
 <p 
 </p>
 <p align="center">
-<a href="https://github.com/zakiahsanS">
+<a href="https://github.com/FxAngga/Bot">
 </p>
 
   
@@ -17,7 +17,7 @@
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/zakiahsanS/zakibot
+> git clone https://github.com/FxAngga/Bot
 ```
 
 ```bash
@@ -38,7 +38,5 @@
 
 
 ## Sosmed
-* [`YouTube`](https://youtube.com/channel/c/MikazuMZ)
+* [`WhatsApp`](https://wa.me/6285283427860)
 
-* [`WhatsApp`](https://wa.me/6283144780782)
-* [`Instagram`](https://instagram.com/sanglord_)
